@@ -89,7 +89,7 @@ main {
     bottom: 10px;
 }
 
-@media screen and (max-width: 375px) {
+@media (max-width: 375px) {
     body {
         background: #F9F0FFFF url('./assets/images/background-pattern-mobile.svg') no-repeat top;
     }
